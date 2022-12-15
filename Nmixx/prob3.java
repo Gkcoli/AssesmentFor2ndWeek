@@ -5,7 +5,7 @@ public class App {
         // Declare an array of 10 first names
         String[] names = {"Coli", "Blix", "Franze", "Allen", "Cristian",
                           "Iber", "Gelo", "Dhan", "Aldrin", "Andrew one/two" , 
-                          "Nicko"};
+                          "Nicko" , "Gerick"};
 
         Scanner scanner = new Scanner(System.in);
 
